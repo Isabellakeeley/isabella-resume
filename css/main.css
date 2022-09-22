@@ -10,7 +10,7 @@ p{
 .button {
     background-color: #f078c2;
 }
-.button:hover{
+.button:hover {
     background-color: #3e299b;
 }
 .button: focus {
