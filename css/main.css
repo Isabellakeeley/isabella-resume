@@ -16,7 +16,7 @@ p{
    background-color: #3e299b;
 }
 .button: focus {
-
+    border: 1px solid #3e299b ;
 }
 .button-small {
     font-size: 8 px;
