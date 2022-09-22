@@ -10,6 +10,12 @@ p{
 .button {
     background-color: #f078c2;
 }
+.button:hover{
+    background-color: #3e299b;
+}
+.button: focus {
+
+}
 .small-button {
     font-size: 8 px;
 }
